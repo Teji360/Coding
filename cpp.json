@@ -1,0 +1,18 @@
+{
+	 "Print to console": {
+	 	"prefix": "code-print",
+	 	"body": [
+	 		"#include<iostream>"
+			 "#include<string>"
+			 "#include<vector>"
+			 "#define ll long long"
+			 "using namespace std;"
+			 
+			 "int main(){"
+			 
+				 "return 0;"
+			 "}"
+	 	],
+	 	"description": "Snippet for Competitive Programming"
+	 }
+}
